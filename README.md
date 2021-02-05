@@ -1,4 +1,4 @@
-# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Sukesh Seth.
+# Hey there<img src="./wave.gif" width="30px"><br>I am Sukesh Seth.
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 ### I'm pre-final year student who is a passionate learner with immense interest in Problem Solving, Linux, Deep Learning, Computer Vision, Cloud Computing, Robotics & Automation. I’m proficient in developing, deploying Machine Learning production models on AWS EC2 Instances using command line & Ansible. I also have 3 star rating on CodeChef and  I'm getting started with CodeForces.
