@@ -6,7 +6,6 @@
 ### Currently working as a Flight System Engineer developing UAVs.
 
 ### I also like to share my technical knowledge through medium publications, give it read on [<img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white&color=12100E"/>](https://sukeshseth.medium.com/)
-<br/><br/><br/><br/><br/>
 
 ---
 
