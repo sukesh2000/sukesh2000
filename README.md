@@ -59,7 +59,7 @@
 </p>
 
 ### <h2 align=center>My current streak was maintained listening</h2> 
-|<img src="https://spotify-github-profile.vercel.app/api/view?uid=31er6ahjdriqqrd33dpafbveid4y&cover_image=false&theme=default"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukesh2000"/>|
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31er6ahjdriqqrd33dpafbveid4y&cover_image=false&theme=default"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=sukesh2000"/>
 
 ---
 
