@@ -19,7 +19,7 @@
 ## Connect with me on
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/sukeshseth/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sukesss_/)
-[<img src ="https://img.shields.io/badge/Resume-rgb(0, 108, 255, 1).svg?&style=for-the-badge&logo=dropbox&logoColor=white%22">](https://www.dropbox.com/s/v545kfc0sye3xnm/Resume_Sukesh.pdf?dl=0)
+[<img src ="https://img.shields.io/badge/Resume-rgb(0, 108, 255, 1).svg?&style=for-the-badge&logo=dropbox&logoColor=white%22">](https://bit.ly/sukeshResume)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:sukeshseth20@gmail.com)
 
 ---
